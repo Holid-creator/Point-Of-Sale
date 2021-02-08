@@ -1,2 +1,2 @@
-# Pont-Of-Sale
+# Point-Of-Sale
 Aplikasi Penjualan
